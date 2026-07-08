@@ -552,6 +552,11 @@ Barnett, Simon, and John D. Chodera.
 
 
 
+
+* **Accelerating molecular dynamics simulations using fast Ewald summation with prolates** [2026]  
+Liang, J., Lu, L., Barnett, A. et al.  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-73232-8)  
+
 * **MonicaMD: Molecules and Internal Cluster Analysis of Molecular Dynamics Simulations** [2026]  
 Ferdinand L. Pointner, Sebastian Reiter, Benjamin P. Fingerhut, and Regina de Vivie-Riedle.  
 [J. Chem. Inf. Model. (2026)](https://doi.org/10.1021/acs.jcim.6c00502)  
@@ -924,6 +929,11 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+
+
+* **Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles** [2026]  
+Gawkowski, M.J., Artrith, N., Bonfanti, S., Gangan, A., Heenen, H.H., Kioseoglou, J., Lonvcari'c, I., Myneni, H., Riebesell, J., Rossi, M., Rupp, M., Schmidt, J., Sharma, S., Shi, B.X., Wadowski, A., Hormann, L., & Kapil, V.  
+[arXiv:2607.03433 (2026)](https://doi.org/10.48550/arXiv.2607.03433)  
 
 * **Machine learning potentials for modeling alloys across compositions** [2026]  
 Killian Sheriff et al.  
