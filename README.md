@@ -1623,6 +1623,14 @@ Zhang, Yuzhi, Haidi Wang, Weijie Chen, Jinzhe Zeng, Linfeng Zhang, Han Wang, and
 
 
 
+
+
+
+
+* **Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases** [2026]  
+  Weiliang Luo, Heather J. Kulik.  
+  [arXiv:2607.01362 (2026)](https://doi.org/10.48550/arXiv.2607.01362) | [code](https://github.com/Benzoin96485/Enerzyme)  
+
 * **Concerted Electron-Ion Transport by Polyacrylonitrile Elucidated with Reactive Deep Learning Potentials** [2026]  
 Rajni Chahal-Crockett, Michael D. Toomey, Logan T. Kearney, Yawei Gao, Joshua T. Damron, Amit K. Naskar, and Santanu Roy.  
 [J. Am. Chem. Soc.(2025)](https://doi.org/10.1021/jacs.6c05078) | [code](https://github.com/rajnichahal/AIMMS-Research-Group/tree/main/Reactive%20PAN%20NNIP)  
@@ -3583,7 +3591,9 @@ Du, Yilun, Joshua Meier, Jerry Ma, Rob Fergus, and Alexander Rives.
 
 
 
-
+* **Enerzyme: A Framework for Efficient Training of Reactive Neural Network Potentials for Enzyme Catalysis with Application to Methyltransferases** [2026]  
+  Weiliang Luo, Heather J. Kulik.  
+  [arXiv:2607.01362 (2026)](https://doi.org/10.48550/arXiv.2607.01362) | [code](https://github.com/Benzoin96485/Enerzyme)  
 
 * **MAPLE: a machine-learning force-field-native platform for automated reaction modeling and enzyme design** [2026]  
   Wang, Xujian, Zeyu Sun, Yilu Zhang, Carlo Asam, Ruzhan Zhu, Wan-Lu Li, and Junmei Wang.  
