@@ -2221,7 +2221,7 @@ Do, Hung N., Jinan Wang, Apurba Bhattarai, and Yinglong Miao.
 ### AlphaFold-based
 
 
-
+* [OF3-metadynamics](https://github.com/sbhakat/OF3-metadynamics) - Metadynamics like bias potential with OpenFold3.  
 
 
 
