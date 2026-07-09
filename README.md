@@ -2111,6 +2111,14 @@ KYuan, E.CY., Kumar, A., Guan, X. et al.
 
 
 
+
+
+
+
+* **PARSEC.py: A Python-based Real-space Kohn–Sham Density Functional Theory Code Accelerated by Machine Learned Charge Density** [2026]  
+Zeyi Zhang, Carlos Mora Perez, Patrick Kwon, et al.  
+[ChemRxiv (2026)](https://doi.org/10.26434/chemrxiv.15005599/v1)  
+
 * **LLM-Guided Test-Time Discovery of Quantum-Chemical Approximation Algorithms** [2026]  
 Masaya Hagai, Yuta Suzuki, Tomoya Murata, Shuhei Kurita, Masaki Adachi.  
 [arXiv:2606.20729 (2026)](https://doi.org/10.48550/arXiv.2606.20729)  
