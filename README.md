@@ -929,7 +929,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
-
+* **Reaction Pathway Detection using Machine-Learned Energy Potentials -- Decomposition of Energized CF3CHOO** [2026]  
+Cangtao Yin, Markus Meuwly.  
+[arXiv:2607.06380 (2026)](https://doi.org/10.48550/arXiv.2607.06380)  
 
 * **Dyna-Mat: End-to-end benchmarking of foundation machine learning interatomic potentials in finite-temperature ensembles** [2026]  
 Gawkowski, M.J., Artrith, N., Bonfanti, S., Gangan, A., Heenen, H.H., Kioseoglou, J., Lonvcari'c, I., Myneni, H., Riebesell, J., Rossi, M., Rupp, M., Schmidt, J., Sharma, S., Shi, B.X., Wadowski, A., Hormann, L., & Kapil, V.  
