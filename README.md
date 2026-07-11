@@ -928,6 +928,9 @@ Wang, Han, Linfeng Zhang, Jiequn Han, and E. Weinan.
 
 
 
+* **Chemical intuition on bond-dissociation energies as an emergent ability of universal machine-learning interatomic potentials** [2026]  
+Hattori, S., Shimamura, K., Nomura, Ki. et al..  
+[Nat Commun (2026)](https://doi.org/10.1038/s41467-026-74919-8) | [code](https://doi.org/10.5281/zenodo.20264297) | [Zenodo](https://doi.org/10.5281/zenodo.20264297)  
 
 * **Reaction Pathway Detection using Machine-Learned Energy Potentials -- Decomposition of Energized CF3CHOO** [2026]  
 Cangtao Yin, Markus Meuwly.  
