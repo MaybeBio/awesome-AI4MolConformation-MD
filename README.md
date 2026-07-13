@@ -1728,7 +1728,9 @@ Anstine DM, Zhao Q, Zubatiuk R, Zhang S, Singla V, Nikitin F, et al.
 
 
 
-
+* **Estimation of Absolute Protein–DNA Binding Free Energy Using Streamlined Geometric Formalism** [2026]  
+Shreya Mukherjee, Diship Srivastava, and Niladri Patra.  
+[J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.6c01789)  
 
 * **Free Energy Calculations Meet Generative Machine Learning** [2026]  
 Xinqiang Ding, Haoming Su, Jiaqi Zhu.  
@@ -3820,6 +3822,14 @@ A. Clay Richard, Robert J. Pantazes.
 
 
 
+
+
+
+
+
+* **Estimation of Absolute Protein–DNA Binding Free Energy Using Streamlined Geometric Formalism** [2026]  
+Shreya Mukherjee, Diship Srivastava, and Niladri Patra.  
+[J. Phys. Chem. Lett. (2026)](https://doi.org/10.1021/acs.jpclett.6c01789)  
 
 * **Communication pathway analysis within protein-nucleic acid complexes** [2025]  
 Sneha Bheemireddy, Roy González-Alemán, Emmanuelle Bignon, Yasaman Karami.  
